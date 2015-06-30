@@ -1,0 +1,11 @@
+{
+  "name": "channel-support",
+  "_cacheHeaders": {
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "main": "index",
+  "_source": "https://github.com/driftyco/ionic-service-deploy/tree/channel-support",
+  "_target": "*",
+  "_originalSource": "https://github.com/driftyco/ionic-service-deploy/tree/channel-support",
+  "_direct": true
+}
